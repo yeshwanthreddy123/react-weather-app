@@ -59,6 +59,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 ### Advanced Configuration
 
+
+
+###Important
+ADD your openweather API key in the .env file as REACT_APP_KEY='your api key' and then start the server
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
